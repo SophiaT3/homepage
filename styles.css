@@ -9,11 +9,12 @@ body {
     line-height: 1.5;
 
     --primary-text-color: #181820;
-    --secondary-text-color: #5c5c62;
+    --secondary-text-color: #474753;
     --durability-text-color: #6a737d9c;
     --icon-color: #6a737d;
     --border-color: #e612cd1e;
     --text-decoration-color: #ff0090;
+
 }
 
 .container {
@@ -40,6 +41,8 @@ body {
     box-shadow: 1px 1px 7px 7px #f5f5f5;
     padding: 30px 0;
     max-width: 900px;
+    background: rgb(238, 174, 202);
+    background: linear-gradient(90deg, rgba(238, 174, 202, 0.46589057986475846) 0%, rgba(148, 187, 233, 0.3510446414894083) 100%);
 }
 
 .resume__block {
